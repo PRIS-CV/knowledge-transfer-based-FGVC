@@ -10,7 +10,7 @@ PyTorch >= 1.1.1
 torchvision >= 0.2.1
 
 ## Training
-Train from scratch with `main.py`.
+Train from scratch with `train.py`.
 
 ## Contact
 Thanks for your attention!
